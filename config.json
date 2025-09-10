@@ -10,7 +10,7 @@
     "trusted_origins": ["gophish-1-ovtt.onrender.com"]
   },
   "db_name": "mysql",
-  "db_path": "gophish_user:gophish_pass@tcp(dockermysql.internal:3306)/gophish?parseTime=true",
+  "db_path": "gophish_user:gophish_pass@tcp(nozomi.proxy.rlwy.net:16427)/gophish?parseTime=true&tls=skip-verify",
   "migrations_prefix": "db/db_",
   "contact_address": "",
   "logging": {
