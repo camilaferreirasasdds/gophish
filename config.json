@@ -9,7 +9,7 @@
     "use_tls": false,
     "trusted_origins": ["gophish-1-ovtt.onrender.com"]
   },
-  "db_name": "sqlite3",
+  "db_name": "mysql",
   "db_path": "gophish_user:gophish_pass@tcp(dockermysql.internal:3306)/gophish?parseTime=true",
   "migrations_prefix": "db/db_",
   "contact_address": "",
