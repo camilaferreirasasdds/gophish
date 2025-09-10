@@ -10,7 +10,7 @@
     "trusted_origins": ["gophish-1-ovtt.onrender.com"]
   },
   "db_name": "mysql",
-  "db_path": "root:kBEYHOHdpRPpnjUkpLivymahRQKMqxgL@tcp(shortline.proxy.rlwy.net:18878)/railway?parseTime=true",
+  "db_path": "root:kBEYHOHdpRPpnjUkpLivymahRQKMqxgL@tcp(shortline.proxy.rlwy.net:18878)/railway?parseTime=true&sql_mode=''",
   "migrations_prefix": "db/db_",
   "contact_address": "",
   "logging": {
